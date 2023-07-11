@@ -28,4 +28,4 @@ The game window will appear, showing a grid of tiles. Click on the tiles to reve
 
 Feel free to customize the game according to your preferences. You can modify the colors, tile sizes, font styles, or add additional functionality as desired.
 
-Enjoy playing the memory puzzle game!
+
